@@ -55,6 +55,14 @@ SmartDoc AI solves this problem by combining:
 **OCR + Large Language Model + Document Understanding**
 
 ---
+---
+<img width="1365" height="636" alt="image" src="https://github.com/user-attachments/assets/60750864-ecee-4f7d-80d9-302ed14cdc71" />
+---
+---
+<img width="1365" height="627" alt="image" src="https://github.com/user-attachments/assets/58e3aa49-41b4-4661-b0ed-ffdcc4d480af" />
+---
+<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/7df00945-5770-4b26-994b-5d6766ac4797" />
+---
 
 ## 💡 Proposed Solution
 
@@ -93,11 +101,3 @@ SmartDoc AI follows a simple intelligent document processing pipeline:
        │ Required Actions              │
        └───────────────────────────────┘
 
----
-<img width="1365" height="636" alt="image" src="https://github.com/user-attachments/assets/60750864-ecee-4f7d-80d9-302ed14cdc71" />
----
----
-<img width="1365" height="627" alt="image" src="https://github.com/user-attachments/assets/58e3aa49-41b4-4661-b0ed-ffdcc4d480af" />
----
-<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/7df00945-5770-4b26-994b-5d6766ac4797" />
----
