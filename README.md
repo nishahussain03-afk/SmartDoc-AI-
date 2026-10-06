@@ -7,7 +7,8 @@ SmartDoc AI is an AI-powered document understanding application that extracts te
 Instead of simply displaying OCR text, SmartDoc AI converts unstructured document content into useful information such as document type, summary, important details, amounts, payment status, dates, and required actions.
 
 ---
-
+demo link : https://bxwnvnuxqj6vfnxbha9ytd.streamlit.app/
+-- 
 ## 🚀 Features
 
 - 📤 Upload document images
