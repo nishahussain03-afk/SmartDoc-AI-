@@ -7,8 +7,10 @@ load_dotenv()
 HF_TOKEN = os.getenv("HF_TOKEN")
 
 if not HF_TOKEN:
-    raise ValueError("HF_TOKEN is missing. Add it to the .env file.")
-
+    raise ValueError(
+        "HF_TOKEN is missing. Configure it in Streamlit Cloud Secrets "
+        "or add it to the local .env file."
+    )
 client = InferenceClient(
     api_key=HF_TOKEN,
     provider="auto"
