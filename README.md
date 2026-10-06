@@ -28,6 +28,8 @@ Instead of simply displaying OCR text, SmartDoc AI converts unstructured documen
 - 🔐 Environment-variable based API key management
 
 ---
+<img width="1365" height="631" alt="image" src="https://github.com/user-attachments/assets/a53f1f2b-c8e6-4337-88c4-f65ad1c443fe" />
+---
 
 ## 🎯 Problem Statement
 
@@ -90,3 +92,12 @@ SmartDoc AI follows a simple intelligent document processing pipeline:
        │ Important Dates               │
        │ Required Actions              │
        └───────────────────────────────┘
+
+---
+<img width="1365" height="636" alt="image" src="https://github.com/user-attachments/assets/60750864-ecee-4f7d-80d9-302ed14cdc71" />
+---
+---
+<img width="1365" height="627" alt="image" src="https://github.com/user-attachments/assets/58e3aa49-41b4-4661-b0ed-ffdcc4d480af" />
+---
+<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/7df00945-5770-4b26-994b-5d6766ac4797" />
+---
