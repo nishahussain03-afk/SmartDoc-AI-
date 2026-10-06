@@ -1,0 +1,10 @@
+streamlit
+pillow
+opencv-python
+pytesseract
+numpy
+python-dotenv
+huggingface_hub
+transformers
+torch
+pymupdf
